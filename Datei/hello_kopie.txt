@@ -1,0 +1,1000 @@
+ 1067  cd ~
+ 1068  sudo -s
+ 1069  su saiyin
+ 1070  cd ./saiyin/python
+ 1071  ll
+ 1072  cd python
+ 1073  ll
+ 1074  clear
+ 1075  ll
+ 1076  vi test01.py 
+ 1077  python test01.py 
+ 1078  vi test01.py 
+ 1079  python test01.py 
+ 1080  python3 test01.py 
+ 1081  python2 test01.py 
+ 1082  vi test01.py 
+ 1083  clear
+ 1084  touch test02.py
+ 1085  ls
+ 1086  ll
+ 1087  vi test02.py 
+ 1088  python test02.py 
+ 1089  chmod 700 test02.py 
+ 1090  ll
+ 1091  vi test02.py 
+ 1092  python test02.py 
+ 1093  vi test02.py 
+ 1094  python test02.py 
+ 1095  vi test02
+ 1096  ll
+ 1097  vi test02.py 
+ 1098  python test02.py 
+ 1099  vi test02.py 
+ 1100  python test02.py 
+ 1101  vi python test02.py 
+ 1102  ll
+ 1103  vi test02.py 
+ 1104  python test02.py 
+ 1105  vi test02.py 
+ 1106  python test02.py 
+ 1107  vi test02.py 
+ 1108  python test02.py 
+ 1109  vi test02.py 
+ 1110  python test02.py 
+ 1111  vi test02.py 
+ 1112  python test02.py 
+ 1113  vi namecark.py
+ 1114  python namecark.py 
+ 1115  vi namecark.py 
+ 1116  python namecark.py 
+ 1117  vi namecark.py 
+ 1118  python namecark.py 
+ 1119  vi namecark.py 
+ 1120  python3 namecark.py 
+ 1121  python namecark.py 
+ 1122  vi namecark.py 
+ 1123  python3 namecark.py 
+ 1124  vi namecark.py 
+ 1125  python3 namecark.py 
+ 1126  vi str
+ 1127  vi namecark.py 
+ 1128  python3 namecark.py 
+ 1129  python namecark.py 
+ 1130  clear
+ 1131  ipython3
+ 1132  ipython
+ 1133  ipython 
+ 1134  clear
+ 1135  ll
+ 1136  chmod 711 test01.py 
+ 1137  ll
+ 1138  vi if.py
+ 1139  python3 if.py 
+ 1140  vi if.py 
+ 1141  python if.py 
+ 1142  clear
+ 1143  vi if.py 
+ 1144  python3 if.py 
+ 1145  clear
+ 1146  ifconfig
+ 1147  clear
+ 1148  ipython
+ 1149  python if.py 
+ 1150  vi
+ 1151  clear
+ 1152  vi if.py 
+ 1153  python3 if.py 
+ 1154  vi if.py 
+ 1155  python if.py 
+ 1156  python if.py 21
+ 1157  clear
+ 1158  vi if.py 
+ 1159  python3 if.py 
+ 1160  python if.py 
+ 1161  clear
+ 1162  ll
+ 1163  chmod if 711 if.py 
+ 1164  chmod 711 if.py 
+ 1165  ll
+ 1166  chmod 711 namecark.py 
+ 1167  ll
+ 1168  ipython
+ 1169  cp if.py if_else.py
+ 1170  ll
+ 1171  cat if_else.py 
+ 1172  vi mehr_print.py
+ 1173  python mehr_print.py 
+ 1174  vi mehr_print.py 
+ 1175  python3 mehr_print.py 
+ 1176  vi mehr_print.py 
+ 1177  python mehr_print.py 
+ 1178  vi mehr_print.py 
+ 1179  python mehr_print.py 
+ 1180  vi mehr_print.py 
+ 1181  python mehr_print.py 
+ 1182  clear
+ 1183  ll
+ 1184  rm wbr.py 
+ 1185  ll
+ 1186  clear
+ 1187  history
+ 1188  history | count
+ 1189  count --hlep
+ 1190  count --help
+ 1191  clear
+ 1192  vim test02.py 
+ 1193  cd ~
+ 1194  ls
+ 1195  ll
+ 1196  cd /home
+ 1197  ll
+ 1198  cd ..
+ 1199  ll
+ 1200  cd etc
+ 1201  cd vim
+ 1202  ll
+ 1203  cd vimrc
+ 1204  vi cimrc
+ 1205  ll
+ 1206  vi vimrc.tiny 
+ 1207  ll
+ 1208  cd vimrc
+ 1209  sudo apt-get install python-dev
+ 1210  cd ~
+ 1211  cd python
+ 1212  vi test.py
+ 1213  clear
+ 1214  sudo apt-get install cmake
+ 1215  apt-get update
+ 1216  --fix-missing
+ 1217  cd ..
+ 1218  pwd
+ 1219  cd ./
+ 1220  cd ../..
+ 1221  ll
+ 1222  su -s
+ 1223  su
+ 1224  claer
+ 1225  clear
+ 1226  cd python
+ 1227  touch while.py
+ 1228  vi while.py 
+ 1229  python3 while.py 
+ 1230  vi while.py  +4
+ 1231  python3 while.py 
+ 1232  vi while.py +2
+ 1233  python3 while.py 
+ 1234  vi while.py 
+ 1235  python while.py 
+ 1236  vi while.py 
+ 1237  python while.py 
+ 1238  vi while.py 
+ 1239  python while.py 
+ 1240  vi while.py 
+ 1241  python while.py 
+ 1242  shutdown -h now
+ 1243  ls
+ 1244  ll
+ 1245  cd python
+ 1246  clear
+ 1247  history
+ 1248  ll
+ 1249  clear
+ 1250  ll
+ 1251  python3 Rechtecke.py 
+ 1252  ll
+ 1253  python3 Rechtecke.py 
+ 1254  python Produkregel.py 
+ 1255  python3 Produkregel.py 
+ 1256  ll
+ 1257  python3 Schere_Stein_Papier.py 
+ 1258  ipython
+ 1259  ipython3
+ 1260  clear
+ 1261  sudo apt-get install w3m
+ 1262  w3m google.com
+ 1263  ll
+ 1264  history
+ 1265  vi break.py
+ 1266  clear
+ 1267  vi abc.txt
+ 1268  clear
+ 1269  ifconfig
+ 1270  shutdown -h now
+ 1271  clear
+ 1272  cd python
+ 1273  ll
+ 1274  vi ififif.py
+ 1275  ll
+ 1276  python ififif.py 
+ 1277  vi ififif.py 
+ 1278  python3 ififif.py 
+ 1279  clear
+ 1280  top
+ 1281  htop
+ 1282  ls /home/etc/
+ 1283  ls ./home/etc/
+ 1284  clera
+ 1285  clear
+ 1286  history
+ 1287  ifconfig
+ 1288  chmod 000 ififif.py 
+ 1289  ll
+ 1290  python3 ififif.py 
+ 1291  chmod 100 ififif.py 
+ 1292  ll
+ 1293  python ififif.py 
+ 1294  chmod 777 ififif.py 
+ 1295  ll
+ 1296  ifconfig
+ 1297  history
+ 1298  clear
+ 1299  vi Rechtecke.py
+ 1300  vi Rechtecke.py 
+ 1301  vi fuhe.py
+ 1302  ll
+ 1303  cp Rechtecke.py Dreieck.py
+ 1304  ll
+ 1305  vi Rechtecke.py 
+ 1306  vi Dreieck.py 
+ 1307  vi Produkregel.py
+ 1308  vi Schere_Stein_Papier.py
+ 1309  python3 break.py 
+ 1310  clear
+ 1311  python3 break.py 
+ 1312  python3 break.py  | more
+ 1313  clear
+ 1314  python3 break.py 
+ 1315  su root
+ 1316  ll
+ 1317  cd python
+ 1318  ls
+ 1319  ll
+ 1320  login
+ 1321  cd
+ 1322  exit
+ 1323  shutdown -h now
+ 1324  su root
+ 1325  clera
+ 1326  clear
+ 1327  ll
+ 1328  cd python
+ 1329  ll
+ 1330  cp break.py  continue.py
+ 1331  vi continue.py 
+ 1332  python3 continue.py 
+ 1333  vi continue.py 
+ 1334  python3 continue.py 
+ 1335  vi continue.py 
+ 1336  vim continue.py 
+ 1337  python3 continue.py 
+ 1338  vi continue.py 
+ 1339  python3 continue.py 
+ 1340  vi continue.py 
+ 1341  python3 continue.py 
+ 1342  vi continue.py 
+ 1343  python3 continue.py 
+ 1344  clear
+ 1345  cp continue.py whlie_continue.py
+ 1346  vi whlie_continue.py 
+ 1347  python3 whlie_continue.py 
+ 1348  vi whli
+ 1349  vi whlie_continue.py 
+ 1350  python3 whlie_continue.py 
+ 1351  vi whlie_continue.py 
+ 1352  python3 whlie_continue.py 
+ 1353  clear
+ 1354  sudo apt-get install acpi
+ 1355  acpi
+ 1356  clear
+ 1357  ls -l
+ 1358  ls -lag
+ 1359  ls -lh
+ 1360  ll
+ 1361  ls --help
+ 1362  ls --help | more
+ 1363  clear
+ 1364  ll
+ 1365  exit
+ 1366  clear
+ 1367  ipython
+ 1368  history
+ 1369  acpi
+ 1370  ipython
+ 1371  clear
+ 1372  cd python
+ 1373  ll
+ 1374  vi NamenVerwaltung.py
+ 1375  python3 NamenVerwaltung.py 
+ 1376  vi NamenVerwaltung.py 
+ 1377  python3 NamenVerwaltung.py 
+ 1378  vi NamenVerwaltung.py 
+ 1379  python3 NamenVerwaltung.py 
+ 1380  vi NamenVerwaltung.py 
+ 1381  python NamenVerwaltung.py 
+ 1382  vi NamenVerwaltung.py  +30
+ 1383  python NamenVerwaltung.py 
+ 1384  vi NamenVerwaltung.py  +20
+ 1385  python3 NamenVerwaltung.py 
+ 1386  vi NamenVerwaltung.py  + 24
+ 1387  python3 NamenVerwaltung.py 
+ 1388  vi NamenVerwaltung.py 
+ 1389  python NamenVerwaltung.py 
+ 1390  python namecark.py 
+ 1391  DFA
+ 1392  python3 NamenVerwaltung.py 
+ 1393  vi NamenVerwaltung.py 
+ 1394  python NamenVerwaltung.py 
+ 1395  python3 NamenVerwaltung.py 
+ 1396  python
+ 1397  python3 NamenVerwaltung.py 
+ 1398  vi NamenVerwaltung.py 
+ 1399  python3 NamenVerwaltung.py 
+ 1400  vi NamenVerwaltung.py 
+ 1401  python3 NamenVerwaltung.py 
+ 1402  ipython
+ 1403  cp NamenVerwaltung.py NamenVerwaltung2.py
+ 1404  vi NamenVerwaltung2.py 
+ 1405  python3 NamenVerwaltung2
+ 1406  python3 NamenVerwaltung2.py 
+ 1407  vi NamenVerwaltung2.py 
+ 1408  python3 NamenVerwaltung2.py 
+ 1409  vi NamenVerwaltung2.py 
+ 1410  python3 NamenVerwaltung2.py 
+ 1411  vi NamenVerwaltung2.py 
+ 1412  python3 NamenVerwaltung2
+ 1413  python3 NamenVerwaltung2.py 
+ 1414  vi NamenVerwaltung2.py 
+ 1415  python3 NamenVerwaltung2.py 
+ 1416  vi NamenVerwaltung2.py 
+ 1417  python3 NamenVerwaltung2.py 
+ 1418  vi NamenVerwaltung2.py 
+ 1419  python3 NamenVerwaltung2.py 
+ 1420  vi NamenVerwaltung2.py 
+ 1421  python3 NamenVerwaltung2.py 
+ 1422  vi NamenVerwaltung2.py 
+ 1423  clear
+ 1424  cat NamenVerwaltung2.py 
+ 1425  clear
+ 1426  ipva
+ 1427  paic
+ 1428  ipca
+ 1429  cipa
+ 1430  pcia
+ 1431  cpia
+ 1432  ipac
+ 1433  history
+ 1434  history | grep -n "i"
+ 1435  acpi
+ 1436  ipython
+ 1437  acpi
+ 1438  ipython2
+ 1439  ipython
+ 1440  ipython3
+ 1441  ipca
+ 1442  cipa
+ 1443  acpi
+ 1444  git
+ 1445  git status
+ 1446  git add
+ 1447  git --help
+ 1448  git add NamenVerwaltung2.py 
+ 1449  git status
+ 1450  push
+ 1451  git push NamenVerwaltung2.py
+ 1452  ll
+ 1453  ls
+ 1454  clear
+ 1455  acpi
+ 1456  \clear
+ 1457  vi Funktion.py
+ 1458  python Funktion.py 
+ 1459  vi Funktion.py 
+ 1460  python Funktion.py 
+ 1461  vi Funktion.py 
+ 1462  python3 Funktion.py 
+ 1463  vi F
+ 1464  vi Funktion.py 
+ 1465  python Funktion.py 
+ 1466  vi Addition.py
+ 1467  python Addition.py 
+ 1468  vi Addition.py 
+ 1469  python Addition.py 
+ 1470  vi Addition.py 
+ 1471  python3 Addition.py 
+ 1472  vi Addition.py 
+ 1473  python Addition.py 
+ 1474  vi Addition.py 
+ 1475  python Addition.py 
+ 1476  vi Addition.py 
+ 1477  python3 Addition.py 
+ 1478  vi Return.py
+ 1479  python Return.py 
+ 1480  vi Return.py 
+ 1481  python Return.py 
+ 1482  vi Return.py 
+ 1483  python Return.py 
+ 1484  vi MehrereReturn.py
+ 1485  python MehrereReturn.py 
+ 1486  vi MehrereReturn.py 
+ 1487  python MehrereReturn.py 
+ 1488  vi MehrereReturn.py 
+ 1489  python MehrereReturn.py 
+ 1490  vi MehrereReturn.py 
+ 1491  python MehrereReturn.py 
+ 1492  vi MehrereReturn.py 
+ 1493  python3 MehrereReturn.py 
+ 1494  vi MehrereReturn.py 
+ 1495  python3 MehrereReturn.py 
+ 1496  vi MehrereReturn.py 
+ 1497  python MehrereReturn.py 
+ 1498  clear
+ 1499  acpi
+ 1500  shutdown -h now
+ 1501  cd python
+ 1502  ll
+ 1503  vi NamenVerwaltung2.py 
+ 1504  python3 NamecarkVerwaltung.py 
+ 1505  1
+ 1506  2
+ 1507  3
+ 1508  4
+ 1509  1
+ 1510  123
+ 1511  clear
+ 1512  python3 NamecarkVerwaltung.py 
+ 1513  vi NamenVerwaltung2.py 
+ 1514  python3 NamecarkVerwaltung.py 
+ 1515  vi NamenVerwaltung2.py 
+ 1516  python3 NamecarkVerwaltung.py 
+ 1517  vi NamenVerwaltung2.py 
+ 1518  python3 NamecarkVerwaltung.py 
+ 1519  vi NamenVerwaltung2.py 
+ 1520  python3 NamecarkVerwaltung.py 
+ 1521  clear
+ 1522  python3 NamecarkVerwaltung.py 
+ 1523  6
+ 1524  python3 NamecarkVerwaltung.py 
+ 1525  vi NamecarkVerwaltung.py 
+ 1526  vi NamenVerwaltung2.py 
+ 1527  clear
+ 1528  python3 NamecarkVerwaltung.py 
+ 1529  clear
+ 1530  ifconfig
+ 1531  shutdown -h now
+ 1532  sy1987071
+ 1533  sudo pip install requests
+ 1534  pip --version
+ 1535  pip install -U pip
+ 1536  sudo pip install requests
+ 1537  pip install Werkzeug
+ 1538  apt-get update
+ 1539  apt upgreade
+ 1540  apt upgrade
+ 1541  import repuests
+ 1542  python mixcloud.py
+ 1543  ll
+ 1544  ls
+ 1545  cd requests
+ 1546  import repuests
+ 1547  cd ..
+ 1548  ll
+ 1549  cd ..
+ 1550  ls
+ 1551  cd ..
+ 1552  ll
+ 1553  cd user
+ 1554  cd usr
+ 1555  cd bin
+ 1556  ls
+ 1557  env
+ 1558  env python
+ 1559  cd `
+ 1560  exit
+ 1561  clear
+ 1562  request
+ 1563  requests
+ 1564  Requests
+ 1565  ifconfig
+ 1566  ipython
+ 1567  sudo apt-get install requests
+ 1568  pipenv install requests
+ 1569  pipenv
+ 1570  sudo pipenv install requests
+ 1571  git clone git://github.com/kennethreitz/requests.git
+ 1572  ls
+ 1573  tar -zxvf master
+ 1574  cd Downloads/
+ 1575  ls
+ 1576  ll
+ 1577  cd ..
+ 1578  cd requests
+ 1579  ll
+ 1580  python setup.py install
+ 1581  pip install requests
+ 1582  sudo spt install python-pip
+ 1583  sudo apt install python-pip
+ 1584  cd ~
+ 1585  import requests
+ 1586  sudo pip install requests
+ 1587  sudo apt-get uplod\
+ 1588  sudo get-up;oud
+ 1589  sudo get-uploud
+ 1590  sudo get-uplodmn
+ 1591  clear
+ 1592  sudo -s
+ 1593  python
+ 1594  vi a.py
+ 1595  cd ~
+ 1596  clear
+ 1597  vim .vimrc
+ 1598  source .vimrc
+ 1599  vi a.py
+ 1600  ll
+ 1601  vi .vimrc
+ 1602  source .vimrc
+ 1603  vi a.py
+ 1604  vi .vimrc
+ 1605  cat .vimrc
+ 1606  source vim
+ 1607  source .vimrc
+ 1608  vi a.py
+ 1609  vi .vimrc
+ 1610  source .vimrc
+ 1611  vi a.py
+ 1612  clear
+ 1613  apt update
+ 1614  apt upgrad
+ 1615  history
+ 1616  history | grep -n 'up'
+ 1617  sudo apt upgrad
+ 1618  apt upgrad
+ 1619  get upgrad
+ 1620  apt update
+ 1621  apt upgrad
+ 1622  history | grep -n 'grad'
+ 1623  history | grep -n 'up'
+ 1624  shutdown -h now
+ 1625  ll
+ 1626  cd .ssh
+ 1627  ls
+ 1628  gedit id_rsa.pub 
+ 1629  gedit id_rsa
+ 1630  gedit id_rsa.pub 
+ 1631  cd python 
+ 1632  python NamecarkVerwaltung.py 
+ 1633  python3 NamecarkVerwaltung.py 
+ 1634  git status
+ 1635  git add NamecarkVerwaltung.py 
+ 1636  git status
+ 1637  git status NamecarkVerwaltung.py
+ 1638  git push
+ 1639  ssh-keygen -t rsa -C "saiyinwuchari@gmail.com"
+ 1640  cd /home
+ 1641  ls
+ 1642  cd saiyin
+ 1643  ll
+ 1644  ls
+ 1645  cd .ssh
+ 1646  ls
+ 1647  vi id_rsa
+ 1648  ssh -T git@github.com
+ 1649  eval'ssh-agent
+ 1650  ssh-add
+ 1651  exit
+ 1652  eval'ssh-agent'
+ 1653  ssh -T git@github.com
+ 1654  git config --global user.name "saiyinwuchari"
+ 1655  git config --global user.email "saiyinwuchari@gmail.com"
+ 1656  git init
+ 1657  ll
+ 1658  cd .git
+ 1659  ll
+ 1660  cd ..
+ 1661  git remote add origin git@github.com:saiyinwuchari/python
+ 1662  git add read.txt
+ 1663  git add xxx
+ 1664  cd ..
+ 1665  ls
+ 1666  cd saiyin/python
+ 1667  ls
+ 1668  git add NamecarkVerwaltung.py 
+ 1669  git commit -m 'python'
+ 1670  git push
+ 1671  git push -u origin master
+ 1672  git remote add origin git@github.com:sasai101/saiyin
+ 1673  git push -u origin master
+ 1674  git remote add origin git@github.com:sasai101/saiyin.git
+ 1675  git remote add origin git@github.com:sasai101/python.git
+ 1676  git status
+ 1677  git status | more
+ 1678  git status
+ 1679  git add NamecarkVerwaltung.py 
+ 1680  git status
+ 1681  git commit -m 'abc'
+ 1682  git add all
+ 1683  git push origin master
+ 1684  ssh -T git@githu.com
+ 1685  ssh -T git@github.com
+ 1686  git push origin master
+ 1687  git push NamecarkVerwaltung.py
+ 1688  git push origin master
+ 1689  git remote add origin git@github.com:sasai101/saiyin.git
+ 1690  git remote add origin git@github.com:sasai101/test.git
+ 1691  git remote add origin git@github.com:sasai101/tes3.git
+ 1692  git
+ 1693  shutdown -h now
+ 1694  ll
+ 1695  ls
+ 1696  ll
+ 1697  cd .ssh
+ 1698  ls
+ 1699  cd know_hosts
+ 1700  cat known_hosts 
+ 1701  ifconfig
+ 1702  clear
+ 1703  cd python
+ 1704  cd ..
+ 1705  mkdir python1
+ 1706  cd python1/
+ 1707  vi Attribute.py
+ 1708  python Attribute.py 
+ 1709  vi Attribute.py 
+ 1710  python Attribute.py 
+ 1711  clear
+ 1712  vi golba_Attribute.py
+ 1713  python golba_Attribute.py 
+ 1714  vi golba_Attribute.py 
+ 1715  python golba_Attribute.py 
+ 1716  vi golba_Attribute.py 
+ 1717  python golba_Attribute.py 
+ 1718  vi BenutzungvonAttribut.py
+ 1719  vi BenutzungvonAttribut.py 
+ 1720  python BenutzungvonAttribut.py 
+ 1721  vi B
+ 1722  vi BenutzungvonAttribut.py 
+ 1723  python BenutzungvonAttribut.py 
+ 1724  vi BenutzungvonAttribut.py 
+ 1725  cd ..
+ 1726  cd python
+ 1727  ll
+ 1728  vi NamecarkVerwaltung.py 
+ 1729  sudo dpkg-reconfigure console-setup
+ 1730  clear
+ 1731  vi NamecarkVerwaltung.py 
+ 1732  sudo dpkg-reconfigure console-setup
+ 1733  clera
+ 1734  clear
+ 1735  vi NamecarkVerwaltung.py 
+ 1736  startx
+ 1737  cd python
+ 1738  vi budingcanshu.py
+ 1739  python budingcanshu.py 
+ 1740  vi budingcanshu.py
+ 1741  python budingcanshu.py 
+ 1742  vi budingcanshu.py
+ 1743  python budingcanshu.py 
+ 1744  vi NamecarkVerwaltung.py 
+ 1745  vi budingcanshu.py
+ 1746  python budingcanshu.py 
+ 1747  vi budingcanshu.py
+ 1748  python budingcanshu.py 
+ 1749  vi budingcanshu.py
+ 1750  python budingcanshu.py 
+ 1751  vi budingcanshu2.py 
+ 1752  ls
+ 1753  vi budingcanshu2.py 
+ 1754  python budingcanshu2.py 
+ 1755  vi budingcanshu2.py 
+ 1756  python budingcanshu2.py 
+ 1757  vi budingcanshu2.py 
+ 1758  python budingcanshu2.py 
+ 1759  vi budingcanshu2.py 
+ 1760  vi budingcanshu.py
+ 1761  clear
+ 1762  vi budingcanshu2.py 
+ 1763  python budingcanshu2.py 
+ 1764  ipython
+ 1765  vi digui.py
+ 1766  ls
+ 1767  python digui.py
+ 1768  vi digui.py +5
+ 1769  python digui.py
+ 1770  vi digui.py +5
+ 1771  python digui.py
+ 1772  vi digui.py +5
+ 1773  python digui.py
+ 1774  vi digui.py +5
+ 1775  python digui.py
+ 1776  vi digui.py +5
+ 1777  python digui.py
+ 1778  python3 digui.py
+ 1779  vi digui.py +5
+ 1780  python3 digui.py
+ 1781  vi digui.py +5
+ 1782  python3 digui.py
+ 1783  vi digui.py +5
+ 1784  python3 digui.py
+ 1785  vi digui.py +5
+ 1786  python3 digui.py
+ 1787  shutdown -h now
+ 1788  clear
+ 1789  git config --global user.email 'saiyinwuchari@gmail.com'
+ 1790  git config --global user.name 'sasai101'
+ 1791  cd python
+ 1792  cd ..
+ 1793  cd python2
+ 1794  ls
+ 1795  cd python1
+ 1796  ll
+ 1797  cd ..
+ 1798  cd python
+ 1799  mv NamecarkVerwaltung.py  home/saiyin/python1
+ 1800  mv NamecarkVerwaltung.py  ./home/saiyin/python1
+ 1801  mv NamecarkVerwaltung.py  ./
+ 1802  cd ..
+ 1803  cd github
+ 1804  mkdir github
+ 1805  cd github
+ 1806  git clone git@github.com:sasai101/test_github.git
+ 1807  ll
+ 1808  cd test_github
+ 1809  vi python
+ 1810  vi test1.py
+ 1811  git status
+ 1812  git add test1.py 
+ 1813  git status
+ 1814  git commit -n 'first python programm'
+ 1815  git commit -m 'first python programm'
+ 1816  git push
+ 1817  ll
+ 1818  mkdir
+ 1819  mkdir wo
+ 1820  git status
+ 1821  git add wo/
+ 1822  git commit -m 'first order'
+ 1823  git push
+ 1824  git config --list
+ 1825  git push origin
+ 1826  ll
+ 1827  cd wo
+ 1828  touch a.php
+ 1829  ll
+ 1830  cd ..
+ 1831  git push origin
+ 1832  touch a.php
+ 1833  ll
+ 1834  git status
+ 1835  git add ./
+ 1836  git status
+ 1837  git commit -m 'ssh test'
+ 1838  git push origin
+ 1839  ssh git@github.com
+ 1840  git clone
+ 1841  git push origin master
+ 1842  cd ..
+ 1843  cd ~
+ 1844  python
+ 1845  cd python
+ 1846  git push origin master
+ 1847  git status
+ 1848  git add NamecarkVerwaltung.py 
+ 1849  git status
+ 1850  git commit -m 'test'
+ 1851  ls
+ 1852  git push origin master
+ 1853  git status
+ 1854  git add ./
+ 1855  git commit -m 'test'
+ 1856  git push origin master
+ 1857  git init
+ 1858  git push
+ 1859  git push origin master
+ 1860  git status
+ 1861  git add ./
+ 1862  git status
+ 1863  git commit -m 'lerning python'
+ 1864  git push origin master
+ 1865  git push
+ 1866  git status
+ 1867  ll
+ 1868  ls
+ 1869  git status
+ 1870  git push
+ 1871  git remot add origin git@github.com:sasai101/python.git
+ 1872  git remote add origin git@github.com:sasai101/python.git
+ 1873  git push -u origin master
+ 1874  touch readme.txt
+ 1875  git status
+ 1876  git add readme.txt 
+ 1877  git commit -m 'readme'
+ 1878  git -u push origin master
+ 1879  git push -u origin mater
+ 1880  git push
+ 1881  cd >>
+ 1882  cd ..
+ 1883  cd python3
+ 1884  mkdir python_03
+ 1885  cd python_03/
+ 1886  vi lambda.pi
+ 1887  ls
+ 1888  mv lambda.pi lambda.py
+ 1889  vi lambda.py 
+ 1890  python lambda.py 
+ 1891  vi lambda.py 
+ 1892  python lambda.py 
+ 1893  python3 lambda.py 
+ 1894  vi lambda.py 
+ 1895  python3 lambda.py 
+ 1896  vi lambda.py 
+ 1897  python3 lambda.py 
+ 1898  vi lambda.py 
+ 1899  git remote and origin git@github.com/sasai101/python1.git
+ 1900  git remot add origin git@github.com:sasai101/python1.git
+ 1901  git remote and origin git@github.com:sasai101/python1.git
+ 1902  git remote add origin git@github.com:sasai101/python.git
+ 1903  git remote add origin git@github.com:sasai101/python_03.git
+ 1904  git init
+ 1905  git remote add origin git@github.com:sasai101/python_03.git
+ 1906  git status
+ 1907  git add lambda.py 
+ 1908  git status
+ 1909  git commit -m '2'
+ 1910  git remote and origin git@github.com:sasai101/python_03.git
+ 1911  git push -u origin master
+ 1912  git push origin master
+ 1913  git remote add origin ssh://192.168.1.10/~/python_03/.git
+ 1914  git status
+ 1915  git remote add origin git@github.com:sasai101/python_03.git
+ 1916  git push -u origin master
+ 1917  vi sort_lambda.py
+ 1918  python3 sort_lambda.py 
+ 1919  vi sort_lambda.py 
+ 1920  python3 sort_lambda.py 
+ 1921  vi sort_lambda.py 
+ 1922  python3 sort_lambda.py 
+ 1923  vi sort_lambda.py 
+ 1924  python3 sort_lambda.py 
+ 1925  git status
+ 1926  git add sort_lambda.py 
+ 1927  git status
+ 1928  git commit -m 'Benutzung von lambda-Funktion'
+ 1929  git push 
+ 1930  vi lambda1.py 
+ 1931  vi lambda.py 
+ 1932  python3 lambda.py 
+ 1933  vi lambda.py 
+ 1934  python3 lambda.py 
+ 1935  vi lambda.py 
+ 1936  python3 lambda.py 
+ 1937  vi lambda.py 
+ 1938  python3 lambda.py 
+ 1939  git status
+ 1940  python3 lambda.py 
+ 1941  vi lambda.py 
+ 1942  cp lambda.py  lambda_besser.py
+ 1943  vi lambda_besser.py 
+ 1944  python lambda_besser.py 
+ 1945  vi lambda_besser.py 
+ 1946  python lambda_besser.py 
+ 1947  python3 lambda_besser.py 
+ 1948  python lambda_besser.py 
+ 1949  vi lambda_besser.py 
+ 1950  python lambda_besser.py 
+ 1951  vi lambda_besser.py 
+ 1952  python lambda_besser.py 
+ 1953  vi lambda_besser.py 
+ 1954  python3 lambda_besser.py 
+ 1955  git status
+ 1956  git add ./
+ 1957  git status
+ 1958  git push -u origin master
+ 1959  git remote add push git@github.com:sasai101/python_03
+ 1960  git push -u origin master
+ 1961  git push
+ 1962  touch abc.txt
+ 1963  git -commit -m 'abc'
+ 1964  git status
+ 1965  git commit -m 'abc'
+ 1966  git push -u origin master
+ 1967  vi lambda.py 
+ 1968  clear
+ 1969  vi abc.txt 
+ 1970  git add abc.txt 
+ 1971  git -commit -m 'abc'
+ 1972  git status
+ 1973  git -commit -m 'abc'
+ 1974  git commit -m 'abc'
+ 1975  git push -u origin master
+ 1976  tree
+ 1977  shutdown -h now
+ 1978  ll
+ 1979  cd .ssh
+ 1980  ll
+ 1981  gedit id_rsa.pub 
+ 1982  git config --global user.name "sasai101"
+ 1983  git config --global user.email "saiyinwuchari@gmail.com"
+ 1984  touch vi.py
+ 1985  git status
+ 1986  rm vi.py 
+ 1987  ll
+ 1988  ls
+ 1989  cd ~
+ 1990  cd python2
+ 1991  ls
+ 1992  cd python1
+ 1993  ll
+ 1994  startx
+ 1995  mkdir python_test
+ 1996  cd python_
+ 1997  cd python_test/
+ 1998  mkdir Datei
+ 1999  cd Datei
+ 2000  vi Datei_erstellen.py
+ 2001  ls
+ 2002  python Datei_erstellen.py 
+ 2003  vi Datei_erstellen.py
+ 2004  python Datei_erstellen.py 
+ 2005  ls
+ 2006  cat haha
+ 2007  more haha
+ 2008  vi Datei_erstellen.py
+ 2009  python Datei_erstellen.py 
+ 2010  ll
+ 2011  vi Datei_erstellen.py
+ 2012  python Datei_erstellen.py 
+ 2013  vi Datei_erstellen.py
+ 2014  python Datei_erstellen.py 
+ 2015  vi Datei_erstellen.py
+ 2016  python Datei_erstellen.py 
+ 2017  vi Datei_erstellen.py
+ 2018  python Datei_erstellen.py 
+ 2019  vi Datei_erstellen.py
+ 2020  python Datei_erstellen.py 
+ 2021  vi Datei_erstellen.py
+ 2022  python Datei_erstellen.py 
+ 2023  vi Datei_erstellen.py
+ 2024  python Datei_erstellen.py 
+ 2025  vi Datei_erstellen.py
+ 2026  python Datei_erstellen.py 
+ 2027  vi Datei_erstellen.py
+ 2028  python Datei_erstellen.py 
+ 2029  vi Datei_erstellen.py
+ 2030  python Datei_erstellen.py 
+ 2031  vi Datei_erstellen.py
+ 2032  python Datei_erstellen.py 
+ 2033  vi Datei_erstellen.py
+ 2034  python Datei_erstellen.py 
+ 2035  vi hello.tx
+ 2036  ll
+ 2037  vi hello.txt
+ 2038  vi Datei_Kopie.py
+ 2039  ls
+ 2040  python3 Datei_Kopie.py 
+ 2041  vi Datei_Kopie.py
+ 2042  python3 Datei_Kopie.py 
+ 2043  vi Datei_Kopie.py
+ 2044  python3 Datei_Kopie.py 
+ 2045  vi Datei_Kopie.py
+ 2046  python3 Datei_Kopie.py 
+ 2047  vi Datei_Kopie.py
+ 2048  python3 Datei_Kopie.py 
+ 2049  vi Datei_Kopie.py
+ 2050  python3 Datei_Kopie.py 
+ 2051  ls
+ 2052  more hello_kopie.txt 
+ 2053  more hello.txt 
+ 2054  git init
+ 2055  rm .git
+ 2056  ll
+ 2057  cd .git
+ 2058  ll
+ 2059  cd ..
+ 2060  rmdir .git
+ 2061  rmdir .git -rf
+ 2062  rm .git -rf
+ 2063  ll
+ 2064  ls
+ 2065  vi Datei_Kopie.py
+ 2066  history > hello.txt
