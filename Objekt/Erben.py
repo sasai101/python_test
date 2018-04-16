@@ -21,6 +21,15 @@ class Cat(Animal):
 class Xiaotianquan(Dog):
 	def fliegen(self):
 		print("-------kann fliegen-------")
+	def bark(self):
+		print("------ziemlich schreien")
+		
+		#1. Altenativ um die Funktion von Vaterklasse zu rufen
+		#Dog.bark(self)
+
+		#2. Altenativ um die Funktion von Vaterklasse zu rufen
+		super().bark()
+
 
 wangcai = Dog()
 wangcai.eat()
