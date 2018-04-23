@@ -1,0 +1,18 @@
+Erklaerung fuer Spiel FlugKampf.
+
+
+ Kontroller.
+
+ 1. "UP" geht der Flug nach oben
+ 2. "DOWN" geht der Flug nach unten
+ 3. "LEFT" geht der Flug nach links
+ 4. "RIGHT" geht der Flug nach richts
+ 5. "Space" wird der Flug feuern
+
+
+ Feindfluge,
+ 1. am kleinsten Feindflug hat nur 1 Stuecksleben. der wird einfach getotet, wenn die Emmotion nur einmal auf dem getroffen hat.
+ 2. mittel Feindflug hat 3 Stuecksleben. Man muss den 3 mal schiessen ,um der zu toten.
+ 3. am groesssten Feindflug hat 6 Stuecksleben. also muss man ihn 6 mal schiessen.
+
+ Wenn Ihren Flug von Feindflug gestossen wird, wird dann das Spiel geendet.
